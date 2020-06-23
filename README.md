@@ -1,0 +1,1 @@
+Домашняя работа к лекции 10 "Numpy and Pandas" курса Python & BigData.
